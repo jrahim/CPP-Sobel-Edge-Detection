@@ -20,7 +20,7 @@ g++ -O3 sobelEdgeDetection.cpp -o sobel -ljpeg -fpermissive
 ##### My Example:
 
 ```bash
-./CCA HK2.jpg hkborder.jpg
+./sobel HK2.jpg hkborder.jpg
 ```
 
 #### Requires jpeg library:
